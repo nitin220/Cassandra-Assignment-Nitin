@@ -1,0 +1,47 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/DatabaseSystem.scala, /home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/VideoSystem.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/DatabaseSystem.scala, /home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/VideoSystem.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/DatabaseSystem.scala, /home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/VideoSystem.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to /home/knoldus/Desktop/Cassandra-Assignment-NitinNew/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.12.1[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.12.1[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 2aa6c508, interfacing (CompilerInterface) with Scala compiler version 2.12.1[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/local/jdk/jre/lib/resources.jar:/usr/local/jdk/jre/lib/rt.jar:/usr/local/jdk/jre/lib/sunrsasign.jar:/usr/local/jdk/jre/lib/jsse.jar:/usr/local/jdk/jre/lib/jce.jar:/usr/local/jdk/jre/lib/charsets.jar:/usr/local/jdk/jre/lib/jfr.jar:/usr/local/jdk/jre/classes:/home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/Desktop/Cassandra-Assignment-NitinNew/target/scala-2.12/classes:/home/knoldus/.ivy2/cache/com.datastax.cassandra/cassandra-driver-core/bundles/cassandra-driver-core-2.1.10.3.jar:/home/knoldus/.ivy2/cache/io.netty/netty-handler/jars/netty-handler-4.0.33.Final.jar:/home/knoldus/.ivy2/cache/io.netty/netty-buffer/jars/netty-buffer-4.0.33.Final.jar:/home/knoldus/.ivy2/cache/io.netty/netty-common/jars/netty-common-4.0.33.Final.jar:/home/knoldus/.ivy2/cache/io.netty/netty-transport/jars/netty-transport-4.0.33.Final.jar:/home/knoldus/.ivy2/cache/io.netty/netty-codec/jars/netty-codec-4.0.33.Final.jar:/home/knoldus/.ivy2/cache/com.google.guava/guava/bundles/guava-14.0.1.jar:/home/knoldus/.ivy2/cache/com.codahale.metrics/metrics-core/bundles/metrics-core-3.0.2.jar:/home/knoldus/play/activator/repository/org.slf4j/slf4j-api/1.7.5/jars/slf4j-api.jar:/home/knoldus/.ivy2/cache/com.github.jnr/jnr-ffi/jars/jnr-ffi-2.0.7.jar:/home/knoldus/.ivy2/cache/com.github.jnr/jffi/jars/jffi-1.2.10.jar:/home/knoldus/.ivy2/cache/com.github.jnr/jffi/jars/jffi-1.2.10-native.jar:/home/knoldus/.ivy2/cache/org.ow2.asm/asm/jars/asm-5.0.3.jar:/home/knoldus/.ivy2/cache/org.ow2.asm/asm-commons/jars/asm-commons-5.0.3.jar:/home/knoldus/.ivy2/cache/org.ow2.asm/asm-tree/jars/asm-tree-5.0.3.jar:/home/knoldus/.ivy2/cache/org.ow2.asm/asm-analysis/jars/asm-analysis-5.0.3.jar:/home/knoldus/.ivy2/cache/org.ow2.asm/asm-util/jars/asm-util-5.0.3.jar:/home/knoldus/.ivy2/cache/com.github.jnr/jnr-x86asm/jars/jnr-x86asm-1.0.2.jar:/home/knoldus/.ivy2/cache/com.github.jnr/jnr-posix/jars/jnr-posix-3.0.27.jar:/home/knoldus/.ivy2/cache/com.github.jnr/jnr-constants/jars/jnr-constants-0.9.0.jar:/home/knoldus/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 9.017794338 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/DatabaseSystem.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/DatabaseSystem.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/DatabaseSystem.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/DatabaseSystem.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/DatabaseSystem.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, insertIntoUser, equals, asInstanceOf, synchronized, $isInstanceOf, videoByUserIdAndYear, insertIntoVideo, notifyAll, userByEmail, isInstanceOf, cluster, createTable, videoByName, <init>, ==, clone, session, toString, !=, getClass, DatabaseSystem, ne, videoAfterYear, eq, log, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/VideoSystem.scala: Set(insertIntoUser, videoByUserIdAndYear, insertIntoVideo, userByEmail, createTable, videoByName, <init>, getClass, DatabaseSystem, videoAfterYear, log)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/VideoSystem.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/VideoSystem.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/VideoSystem.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/VideoSystem.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/knoldus/Desktop/Cassandra-Assignment-NitinNew/src/main/scala/VideoSystem.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, obj, main, notifyAll, isInstanceOf, res, ==, clone, toString, args, !=, VideoSystem, getClass, ne, eq, log, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
